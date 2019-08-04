@@ -13,3 +13,4 @@
 
 # for VS Code
 *.code-workspace
+.vscode
